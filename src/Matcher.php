@@ -50,6 +50,7 @@ class Matcher
             'ZxcvbnPhp\Matchers\SpatialMatch',
             'ZxcvbnPhp\Matchers\YearMatch',
             'ZxcvbnPhp\Matchers\DictionaryMatch',
+            'ZxcvbnPhp\Matchers\HaveIBeenPwnedMatch',
         );
     }
 }
